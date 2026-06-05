@@ -1,29 +1,44 @@
 # grok-ai-ugc-kit-2026
 
-**AI UGC Kit for 2026** - Scripts, Prompts, Stack Research for brands and creators.
+**Grok AI-UGC Vault & Service Playbook 2026** (Best-of-N Winner: Full-Service / Agency-in-a-Box)
 
-Generated in the compounding phase of the Money Making Grok machine.
+High-ticket digital product + service system for realistic AI-generated UGC ads in 2026.
 
-## Contents (in the actual product)
-- 50+ UGC video scripts (product demo, testimonial, before-after)
-- 200+ prompts optimized for Creatify, HeyGen, MakeUGC, Arcads, Midjourney
-- 2026 tool stack comparison with pricing
-- Outreach templates to land clients ($300-750 per project, retainers $2-3k/mo)
-- Bundle recommendations with Prompt Pack and Playbook
+Generated live during full 'do all' compounding using the Money Making Grok machine + best-of-n evaluation of 3 parallel designs.
 
-## Research Signals Used
-- Brands scaling with AI UGC for speed and volume testing
-- Tools: Creatify ($39/mo), MakeUGC ($49/mo entry), HeyGen ($29/mo), Arcads (premium)
-- Success stories in ecom, supplements, beauty
+## What You Get (in the actual product)
+- 80+ high-converting scripts (testimonial, demo, PAS/story, before/after, retarget) for supplements, beauty, gadgets, apparel, home, etc.
+- 50+ 2026 model-optimized video prompts (Kling, HeyGen, Creatify, Arcads, Luma, Runway + realism techniques)
+- 5 Archetypes + Decision Framework
+- Full Service Playbook (pricing $497-$2,497 packages / retainers, client outreach scripts, 10-question brief template, end-to-end delivery workflow, revision boundaries, sample proposals)
+- Ethics & Compliance section (FTC, platform disclosure, claim accuracy)
+- Meta workflows + strong bundle recommendations
+- Companion XLSX (Script Vault, Performance Log, Client Briefs, Service Business Tracker, Assets Manager)
 
-## How to Monetize
-1. Take the generated PDF from the workspace products/
-2. Upload to Gumroad/Etsy
-3. Use this GH page as landing (update links)
-4. Use the cold email scripts in the kit to get first clients
+## Winning Angle (from best-of-n)
+This variant won for highest compound value: turns the kit into a profitable micro-agency or in-house ops system ("Agency-in-a-Box"). Distinct from pure prompt packs or basic playbooks. Faceless/vertical options from other candidates incorporated where they add low-risk value (supplements/beauty).
 
-Price $37-67. Bundle with prompt pack for $60+ cart.
+## Research Signals (2026)
+- AI UGC beating or matching human creator content on CTR/CPA/ROI for many ecom brands.
+- Tools make generation easy; scripts + systems + service delivery are the persistent edge.
+- Strong demand in supplements, beauty/skincare, gadgets (trust/demos matter).
 
-See main repo for full system, other products, ledger (~$74 sim so far), and backtests.
+## Pricing & Launch
+Suggested: $47 one-time (or $37 launch). Higher AOV via bundles with the Etsy Prompt Pack and Side Hustle Playbook.
 
-AI-assisted educational content. Test, customize, disclose.
+Upload the full PDF + XLSX (from the workspace products/ folder) to Gumroad or Etsy. Use this GH repo's index.html as a free demo landing (enable Pages). Update the buy button to your real listing.
+
+## How This Was Built (Transparency)
+- Research via web + X tools.
+- Best-of-n: 3 parallel subagents designed variants; this service/script-focused one selected as winner for value + defensibility.
+- PDF generated via extended machine (money_grok/products/pdf.py create_ai_ugc_vault_pdf, modeled on existing prompt pack/playbook generators).
+- Cover via image_gen.
+- XLSX companion via openpyxl (pattern from existing tracker).
+- Repo + sales page via MCP (create + push_files).
+- Ledger entries for simulated revenue.
+
+All per AGENTS.md (value-creating, heavy disclaimers, AI disclosure, ethical use, audit trail).
+
+See the main money-making-grock repo for the full system, other products (prompt pack, playbook, planner, trading lab), the /moneymachine skill, and live ledger (~$224 sim across ventures so far).
+
+**Educational only. Not financial, legal, or marketing advice. Results vary. Customize everything. Disclose AI use where required. Test thoroughly and follow all platform and legal rules.**
